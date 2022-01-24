@@ -1,5 +1,5 @@
 # Olá!! Eu sou o Joel Ramos
-# Estudante
+# <p>Estudante e empreendedor, atualmente estudante do curso de analise em desenvolvimento de sistemas e licenciatura em computação, entusiasta em PHP, JS, Mysql, sigo também apredendo Ionic e TypeScript</p>
 <div align="center">
   <a href="https://https://github.com/dev-jramos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-jramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
